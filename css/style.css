@@ -1,0 +1,73 @@
+body{
+    margin: 0px;
+    text-align: center;
+    font-family: 'Ibarra Real Nova', serif;
+}
+.top-container{
+    background-color: #a5cecc;
+    position: relative;
+    padding-top: 100px;
+
+
+}
+h1{
+    font-size: 60px;
+    color: #2C3333;
+    font-family: 'Sacramento', cursive;
+    margin: 0 auto 0 auto;   /*this auto will set the dimension acc to the size of screen*/
+}
+h2{
+    font-family: 'Montserrat', sans-serif;
+
+
+}
+h4{
+    font-family: 'Montserrat', sans-serif;
+    font-style: italic;
+}
+p{
+    font-size: 17px;
+}
+
+.middle{
+    background-color: blue;
+    height: 200px;
+    width: 200px;
+}
+.bottom{
+    background-color: red;
+    height: 200px;
+    width: 200px;
+}
+.bottom-cloud{
+    position: absolute; /*position is relative to its parent*/
+    left: 300px;
+    bottom: 300px;
+}
+.top-cloud{
+    position: absolute;
+    right:300px;
+    top: 50px;
+}
+
+.middle-container{
+    background-color: #E7F6F2;
+    margin-bottom: 0;
+}
+.bottom-container{
+    background-color: #9bcad0d5;
+    margin-top: 0;
+}
+.btn{
+    display: block;
+}
+.shankar{
+    width: 225px;
+    height: auto;
+}
+.skill-img{
+    width: 150px;
+}
+.shoot{
+    width:180px;
+}
